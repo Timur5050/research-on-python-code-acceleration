@@ -1,5 +1,8 @@
 ﻿# research-on-python-code-acceleration
 
+# Hello everyone
+I am not a professional developer, but I decided to conduct research that interests me. If you find this interesting, you're welcome to join! If you notice any mistakes or issues, please let me know.
+
 IO-bound and CPU-bound version
 
 # IO-bound
