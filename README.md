@@ -270,6 +270,7 @@ time taken - 8.09sec
 
 - i do not recommend you to use that approach to CPU-bound tasks
 
+
 # overall conclusion
 
 - For IO-bound tasks, the most suitable approaches are those where the function does not need to wait for the previous
